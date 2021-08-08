@@ -1,0 +1,46 @@
+body{
+    font-family: serif;
+}
+
+.header{
+    color:white;
+    height: 900px ;
+    background-image:url("https://img.kb-cdn.com/imgviewer/NVpIM2ptOHhYRzVmUk5rM1NrNlFxYVV6enV4aGk2UFRJMmxPckdDUUVNWVFNWWIzb1ZzZE4vWmtTVTBYYndXL2N1a2t1cU5MSlhIa0lDamNGR1VPV0t4dkJLR1VGaWVuZDZvSjd5U0RwdU5TcVFieDh3aUNvY3pXbHp6dlErdjVGckpSanZ4T25uY2dGUDlmQThlTlFpY2tMbXJXS3hVWEhNZ2ZsS2F1ditPWXorY2orQ3VBaXNRcEgvUW84Q01qQnZvR1dicmh4Yi9RdXFmaGtLM3hQQT09?square=0");
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    background-size:2000px 900px;
+
+}
+
+.header-logo{
+    text-align:center;
+    font-size: 250px;
+    padding: 50 50 50 50px;
+}
+
+.header-list{
+    color:black;
+    margin-top:600px;
+    font-family: 'Courier';
+    font-size: 50px;
+    background-image:url("https://mail.google.com/mail/u/0?ui=2&ik=8917b0654d&attid=0.1.1&permmsgid=msg-f:1707421276250387476&th=17b1fa9abcd93414&view=fimg&sz=s0-l75-ft&attbid=ANGjdJ-wVX9D-wlrON97f9epwMY1gYSA9Rw_QnxvQxNQbSJ-1VFSevLl9CV41yv1g5Edu5ALsJ6v0xlyedcS-cBjxS3yta4dUXpzunexuj5fKHk9Pl7Dab1UNmXDJmw&disp=emb)no-repeat");
+    background-size: 1880px 725px;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.header-list li{
+    list-style:none;
+}
+
+.main-list li{
+    list-style:none;
+    color:white;
+    font-size: 80px;
+    padding-top: 500px;
+    background-image:url("https://p4.wallpaperbetter.com/wallpaper/430/305/97/movie-snow-white-and-the-seven-dwarfs-snow-white-wallpaper-preview.jpg");
+    background-size:cover;
+    background-attachment: fixed;
+    background-repeat:no-repeat;
+    text-shadow: 10px 10px 10px black;
+}
+
